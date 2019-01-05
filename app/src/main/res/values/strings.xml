@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">My FIrst App</string>
+    <string name="app_name">数独正誤判定アプリ「名称未定」</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="button_start">撮影開始！</string>
 </resources>
