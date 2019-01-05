@@ -1,4 +1,4 @@
-# 数独判定アプリ
+# Sudoku Determiner
 数独正誤判定アプリの開発用リポジトリ
 
 ## 概要
@@ -6,7 +6,7 @@
 * 動作環境はAndroidを想定
 
 ---
-# SudokuApp(Eng)
+# Sudoku Determiner(Eng)
 Application what determine whether sudoku is correct (under construction)
 ## Abstract
 * Application what determine whether sudoku is correct by taking the picture of solved sudoku on the page(e.g. magazine, newspaper)
