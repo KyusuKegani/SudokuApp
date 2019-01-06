@@ -3,4 +3,5 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="button_start">撮影開始！</string>
+    <string name="snap_finish">撮影完了！</string>
 </resources>
