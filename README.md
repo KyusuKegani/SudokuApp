@@ -1,4 +1,4 @@
-# Sudoku Determiner
+# Sudoku Determiner(Obsoluted)
 数独正誤判定アプリの開発用リポジトリ
 
 ## 概要
